@@ -1,0 +1,5 @@
+1.  Debido a diferencias en la implementacion del lenguaje o dependencias del SO.
+
+2. Software que proporciona maquina virtual de hipervisor de sistema.
+
+3. No afecta, cada maqui funciona de manera aislada con sus propios recursos virtuales.
